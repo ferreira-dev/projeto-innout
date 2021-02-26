@@ -10,5 +10,5 @@ if($uri === '/' || $uri === '') {
 require_once(CONTROLLER_PATH . "/{$uri}");
 
 
-echo "teste";
+
 
