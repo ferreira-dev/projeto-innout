@@ -1,5 +1,1 @@
-parei na aula redirecionamento 10min
-
-tem que configurar o servidor embutido para ler o htaccess
-
-https://pt.stackoverflow.com/questions/344103/htaccess-e-regras-de-rescrita-em-servidor-php
+parei na aula redirecionamento 2
