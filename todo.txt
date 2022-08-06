@@ -1,0 +1,4 @@
+- corrigir erros de acentuação
+- aplicar validações em JS de forma mais dinâmica
+- implementar VueJS
+- implementar framework CSS
